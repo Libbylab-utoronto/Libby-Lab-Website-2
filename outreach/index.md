@@ -12,3 +12,5 @@ Advancing science is only part of our mission — equally important is how we co
 Some examples of recent events include: 
 
 {% include section.html %}
+
+{% include list.html component="card" data="outreach" filters="group: featured" style="rich" %}
