@@ -1,19 +1,19 @@
 - title: Body Building at Discovery Day
-  link: https://www.crick.ac.uk/whats-on/discovery-day-1
-  image: images/outreach_DiscoveryDay.jpg
+  link: https://www.crick.ac.uk/whats-on/discovery-day
+  image: images/Discovery_day.jpeg
   group: featured
 
-- title: Genome Editing at Science Museum Lates
-  link: https://www.sciencemuseum.org.uk/see-and-do/lates
-  image: images/outreach_GenomeEditing.jpg
+- title: Genome Editing at the Kew
+  link: https://www.kew.org/learning/community-and-access/community-open-week
+  image: images/meet_a_scientist.jpeg
   group: featured
 
-- title: Damage and Repair at Science Museum Lates
-  link: https://www.sciencemuseum.org.uk/see-and-do/lates
+- title: Pint of Science
+  link: https://pintofscience.co.uk/
   image: images/outreach_sciencelatesLMCB.jpg
   group: featured
 
-- title: Embryo Models at The Royal Society Summer Exhibition
-  link: https://royalsociety.org/science-events-and-lectures/summer-science-exhibition
-  image: images/outreach_embryomodels.jpg
+- title: Sip of Science
+  link: https://www.crick.ac.uk/whats-on/public-events
+  image: 2023_09_27_Crick.jpg
   group: featured
