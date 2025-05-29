@@ -13,16 +13,16 @@ To me, Diversity, Equity, and Inclusion (DEI) efforts go beyond simple recruitme
 
 {% include section.html %}
     
-  **I will actively promote science education through outreach and public engagement whenever possible.**
+  **- I will actively promote science education through outreach and public engagement whenever possible.**
 
-  **I will recruit team members from diverse backgrounds and perspectives.**
+  **- I will recruit team members from diverse backgrounds and perspectives.**
   
-  **I will advocate for and support individuals on my team who feel unheard or marginalized.**
+  **- I will advocate for and support individuals on my team who feel unheard or marginalized.**
 
-  **I will continually educate myself to better understand the experiences of others.**
+  **- I will continually educate myself to better understand the experiences of others.**
 
-  **I will acknowledge my mistakes and focus on constructive solutions rather than dwelling on setbacks.**
+  **- I will acknowledge my mistakes and focus on constructive solutions rather than dwelling on setbacks.**
 
-  **I will foster an environment grounded in acceptance, empathy, and understanding.**
+  **- I will foster an environment grounded in acceptance, empathy, and understanding.**
 
-  **I promise to always listen — with openness, humility, and respect.**
+  **- I promise to always listen — with openness, humility, and respect.**
