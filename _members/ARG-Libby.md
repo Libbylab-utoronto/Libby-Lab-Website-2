@@ -12,13 +12,13 @@ links:
 
 Ashley earned her BA from Vanderbilt University and PhD in Developmental and Stem Cell Biology at the University of California - San Francisco (UCSF) under the mentorship of Drs. Bruce Conklin and Todd McDevitt. Her doctoral research was funded by a NIH NRSA F31 Predoctoral Fellowship to investigate how to engineer self-directed multicellular organization and morphogenesis in gastrulation and embryonic trunk formation by using induced pluripotent stem cell models,  CRISPR-based assays, machine learning, and 3D organoid systems.
 
-<div style="display: flex; justify-content: space-between; margin: 20px 0; gap: 20px;">
+<div style="display: flex; justify-content: space-between; margin: 10px 0; gap: 10px;">
   <div style="flex: 1;">
     {%
       include feature.html
       image="images/phdadvisors.png"
       text=text
-      style="width: 100%; height: 600px; object-fit: cover;"
+      style="width: 100%; height: 800px; object-fit: cover;"
     %}
   </div>
   <div style="flex: 1;">
@@ -26,7 +26,7 @@ Ashley earned her BA from Vanderbilt University and PhD in Developmental and Ste
       include feature.html
       image="images/team/ashley-phd.png"
       text=text
-      style="width: 100%; height: 600px; object-fit: cover;"
+      style="width: 100%; height: 800px; object-fit: cover;"
     %}
   </div>
 </div>
