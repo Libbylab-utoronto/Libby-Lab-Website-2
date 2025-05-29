@@ -469,7 +469,7 @@
 
 <header
   class="background"
-  style="--image: url('/Libby-Lab-Website-2/images/Lavision_UMII_overview.png')"
+  style="--image: url('/Libby-Lab-Website-2/images/spinalcordembryobackground.png')"
   
     data-dark="true"
   
@@ -667,7 +667,7 @@ This could be you!
 
 <footer
   class="background"
-  style="--image: url('/Libby-Lab-Website-2/images/Lavision_UMII_overview.png')"
+  style="--image: url('/Libby-Lab-Website-2/images/spinalcordembryobackground.png')"
   
     data-dark="true"
   
