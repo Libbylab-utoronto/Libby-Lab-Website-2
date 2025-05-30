@@ -1,5 +1,4 @@
 ---
-data-dark: var(true)
 ---
 
 # Connecting molecular to morphogenic
