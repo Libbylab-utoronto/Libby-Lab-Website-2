@@ -24,7 +24,7 @@ A possible mechanism to enable interpretation of complex external environments i
 
 {%
   include feature.html
-  image="images/PI_aims-16.png"
+  image="images/PI_aims-16-1.png"
   text=text
 %}
 
@@ -38,7 +38,7 @@ At the macro scale of signal reception is tissue architecture, which dictates si
 
 {%
   include feature.html
-  image="images/PI_aims-17.png"
+  image="images/PI_aims-17-1.png"
   text=text
 %}
 
