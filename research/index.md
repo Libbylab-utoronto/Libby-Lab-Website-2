@@ -11,16 +11,31 @@ nav:
 
 Tissues are made up of diverse, specialized cell types that work together to maintain homeostasis and function. To do this, cells must adapt to constant environmental changes—like nutrient levels, stress, and time. This challenge becomes even greater during embryonic development, when tissues are being generated. Here, populations of stem cells must interpret their signalling environment, adopt specific identities, and move into place to ensure the proper morphogenesis of functional tissues. Further, these physical changes in tissue structure occur alongside internal gene regulatory shifts that define cell fate, posing the question: **How does physical morphogenesis and gene regulation interact?**
 
-Our lab is beginning to tackle that question by studying how stem cells buffer against fluctuating signals and changing morphologies by maintaining a permissive and responsive epigenetic environment to precisely control gene expression and fate decisions. We use the developing neural tube as a model system as this organ goes through a range of morphogenic changes throughout its development and generates the plethora of cell types within the central and peripheral nervous system. By understanding the feedback between intrinsic cell states and extrinsic environments as the neural tube develops, we aim to uncover key developmental mechanisms and advance tissue engineering and illuminate regenerative medicine strategies.
+{%
+  include figure.html
+  image="images/website_embryo-2.avi"
+  text=text
+%}
+
+{%
+  include figure.html
+  image="images/MAX_website_embryo-2.tif"
+  flip=true
+  text=text
+%}
+
+Our lab addresses this by studying how stem cells maintain a permissive epigenetic state to precisely control gene expression and fate decisions amid changing signals and tissue shapes. Using the developing neural tube as a model—an organ that undergoes extensive morphogenesis and generates diverse nervous system cell types—we explore the feedback between intrinsic cell states and their environment.
+
 
 {% include section.html %}
 
-Our projects think across scales of tissue formation, as such we employ complimentary strategies _in vivo_ (chick embryos) and _in vitro_ (human pluripotent stem cells models) to glean molecular, cellular, and tissue level insights.   
+By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell models, we investigate tissue formation across scales to reveal key developmental mechanisms and inform tissue engineering and regenerative medicine.
+
 {% capture text %}
 
 #### **Connecting transcription to environment-**
 
-A possible mechanism to enable interpretation of complex external environments is to maintain an internal epigenetic environment that is poised to respond to a certain signal across cellular and tissue scales. One such example is the super elongation complex (SEC), which activates polymerase II at bivalently methylated “poised” genes to rapidly turn on transcription. Mutations in the SEC have been connected to congenital malformations in tissues that undergo similar dynamic morphogenesis (spinal cord, eye cup, and heart tube) and aberrant expression of the SEC components can lead to cancer later in life. Therefore, the SEC offers an excellent example to begin to connect mechanisms that relate cellular intrinsic environments with complex extrinsic environments. 
+A possible mechanism to enable interpretation of complex external environments is to maintain an internal epigenetic environment that is poised to respond to a certain signal across cellular and tissue scales. One such example is the super elongation complex (SEC), which activates polymerase II at bivalently methylated "poised" genes to rapidly turn on transcription. Mutations in the SEC have been connected to congenital malformations in tissues that undergo similar dynamic morphogenesis (spinal cord, eye cup, and heart tube) and aberrant expression of the SEC components can lead to cancer later in life. Therefore, the SEC offers an excellent example to begin to connect mechanisms that relate cellular intrinsic environments with complex extrinsic environments. 
 
 {% endcapture %}
 
@@ -44,4 +59,6 @@ At the macro scale of signal reception is tissue architecture, which dictates si
   flip=true
   text=text
 %}
+
+
 
