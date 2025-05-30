@@ -38,7 +38,8 @@ At the macro scale of signal reception is tissue architecture, which dictates si
 
 {%
   include feature.html
-  image="images/PI_aims-17-1.png"
+  image="images/PI_aims-17-2.png"
+  flip=true
   text=text
 %}
 
