@@ -61,3 +61,28 @@ Lab opening in January 2026! We are actively recruiting scientists at all levels
   text=text
 %}
 
+{% capture text %}
+
+Explore our published research and scientific contributions in developmental biology, stem cell research, and tissue engineering.
+
+{%
+  include button.html
+  link="papers"
+  text="View our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Screen-website-paper.png"
+  link="papers"
+  title="<span style='color: var(--secondary)'>Our Papers</span>"
+  text=text
+  style = "bare"
+  image_style = "padding: 20px; background-color: white;"
+%}
+
