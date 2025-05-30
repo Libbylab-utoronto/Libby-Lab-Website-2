@@ -3,6 +3,10 @@ title: News
 nav:
   order: 7
   tooltip: Latest from the lab
+header: images/banners.png
+footer: images/banners-02.png
+header-dark: true
+footer-dark: true
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
