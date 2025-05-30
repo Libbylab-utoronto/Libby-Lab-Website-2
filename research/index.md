@@ -13,13 +13,13 @@ Tissues are made up of diverse, specialized cell types that work together to mai
 
 {%
   include figure.html
-  image="images/website_embryo-2.avi"
-  text=text
+  image="images/website_embryo-2.mp4"
+  width= "75%"
 %}
 
 {%
   include figure.html
-  image="images/MAX_website_embryo-2.tif"
+  image="images/MAX_website_embryo-2.jpg"
   flip=true
   text=text
 %}
