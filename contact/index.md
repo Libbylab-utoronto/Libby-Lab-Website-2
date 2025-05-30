@@ -3,6 +3,10 @@ title: Contact
 nav:
   order: 8
   tooltip: Email, address, and location
+header: images/banners.png
+footer: images/banners-02.png
+header-dark: true
+footer-dark: true
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
