@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-##How do we make functional tissues?
+## How do we make functional tissues?
 
 Tissues are made up of diverse, specialized cell types that work together to maintain homeostasis and function. To do this, cells must adapt to constant environmental changes—like nutrient levels, stress, and time. This challenge becomes even greater during embryonic development, when tissues are being generated. Here, populations of stem cells must interpret their signalling environment, adopt specific identities, and move into place to ensure the proper morphogenesis of functional tissues. Further, these physical changes in tissue structure occur alongside internal gene regulatory shifts that define cell fate, posing the question: **How does physical morphogenesis and gene regulation interact?**
 
