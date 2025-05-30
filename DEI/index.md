@@ -3,6 +3,10 @@ title: DEI
 nav:
   order: 4
   tooltip: Diversity, Equity, & Inclusion
+header: images/banners.png
+footer: images/banners-02.png
+header-dark: true
+footer-dark: true
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}A statement from Dr. Libby

@@ -3,6 +3,10 @@ title: Join us!
 nav:
   order: 5
   tooltip: Join our team
+header: images/banners.png
+footer: images/banners-02.png
+header-dark: true
+footer-dark: true
 ---
 
 # {% include icon.html icon="fa-solid fa-user-plus" %}Join our team:

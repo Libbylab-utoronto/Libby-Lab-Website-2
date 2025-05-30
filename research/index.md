@@ -3,6 +3,10 @@ title: Research
 nav:
   order: 1
   tooltip: Ongoing Projects
+header: images/banners.png
+footer: images/banners-02.png
+header-dark: true
+footer-dark: true
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research

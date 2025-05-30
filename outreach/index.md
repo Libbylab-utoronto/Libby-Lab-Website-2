@@ -3,6 +3,10 @@ title: Outreach
 nav:
   order: 6
   tooltip: Outreach and Public Engagement
+header: images/banners.png
+footer: images/banners-02.png
+header-dark: true
+footer-dark: true
 ---
 
 # {% include icon.html icon="fa-solid fa-people-arrows" %} Outreach and Engagement

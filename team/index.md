@@ -3,7 +3,7 @@ title: Team
 nav:
   order: 3
   tooltip: About our team
-header: images/banners-01.png
+header: images/banners.png
 footer: images/banners-02.png
 header-dark: true
 footer-dark: true

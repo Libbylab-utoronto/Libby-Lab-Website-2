@@ -3,6 +3,10 @@ title: Papers
 nav:
   order: 2
   tooltip: lab publications
+header: images/banners.png
+footer: images/banners-02.png
+header-dark: true
+footer-dark: true
 ---
 # {% include icon.html icon="fa-solid fa-people-arrows" %} Papers
 
