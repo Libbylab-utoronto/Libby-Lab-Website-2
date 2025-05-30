@@ -3,6 +3,10 @@ title: Team
 nav:
   order: 3
   tooltip: About our team
+header: images/header-for-this-page.jpg
+footer: images/footer-for-this-page.jpg
+header-dark: false
+footer-dark: false
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
