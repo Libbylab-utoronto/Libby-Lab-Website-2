@@ -13,8 +13,9 @@ Tissues are made up of diverse, specialized cell types that work together to mai
 
 {%
   include figure.html
-  image="images/MAX_website_embryo-2.png"
+  image="images/MAX_website_embryo-2.gif"
   width= "75%"
+
 %}
 
 Our lab addresses this by studying how stem cells maintain a permissive epigenetic state to precisely control gene expression and fate decisions amid changing signals and tissue shapes. Using the developing neural tube as a model—an organ that undergoes extensive morphogenesis and generates diverse nervous system cell types—we explore the feedback between intrinsic cell states and their environment.
