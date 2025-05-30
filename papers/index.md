@@ -6,11 +6,7 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-people-arrows" %} Papers
 
-Our list of publications (and preprints!) is always growing so to make it easier we have made a list for you below:
-
-{% include section.html %}
-
-## Highlighted Papers
+Our list of publications is always growing so to make it easier we have made a list of highlights below
 
 {% include citation.html lookup="doi:10.1242/dev.204591" style="rich" %}
 
@@ -22,8 +18,9 @@ Our list of publications (and preprints!) is always growing so to make it easier
 
 {% include section.html %}
 
-## All - with preprints!
+## All Papers - with preprints!
 
+Explore all our published research and scientific contributions in developmental biology, stem cell research, and tissue engineering.
 {% include search-box.html %}
 
 {% include search-info.html %}
