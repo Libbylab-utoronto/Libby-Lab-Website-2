@@ -19,6 +19,9 @@ Tissues are made up of diverse, specialized cell types that work together to mai
 
 Our lab addresses this by studying how stem cells maintain a permissive epigenetic state to precisely control gene expression and fate decisions amid changing signals and tissue shapes. Using the developing neural tube as a model—an organ that undergoes extensive morphogenesis and generates diverse nervous system cell types—we explore the feedback between intrinsic cell states and their environment.
 
+By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell models, we investigate tissue formation across scales to reveal key developmental mechanisms and inform tissue engineering and regenerative medicine.
+
+
 {% endcapture %}
 
 {%
@@ -31,7 +34,6 @@ Our lab addresses this by studying how stem cells maintain a permissive epigenet
 
 {% include section.html %}
 
-By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell models, we investigate tissue formation across scales to reveal key developmental mechanisms and inform tissue engineering and regenerative medicine.
 
 ### **Connecting transcription to environment-**
 
