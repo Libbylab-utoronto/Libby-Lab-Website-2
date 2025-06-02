@@ -24,7 +24,7 @@ Our lab addresses this by studying how stem cells maintain a permissive epigenet
   image="images/website_embryo-2.gif"
   style="bare"
   text=text
-  width="100%"
+  aspect-ratio="1/1"
 %}
 
  By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell models, we investigate tissue formation across scales to reveal key developmental mechanisms and inform tissue engineering and regenerative medicine.
