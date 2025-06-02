@@ -40,7 +40,7 @@ By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell 
 
 #### **Connecting transcription to environment-**
 
-A possible mechanism to enable interpretation of complex external environments is to maintain an internal epigenetic environment that is poised to respond to a certain signal across cellular and tissue scales. One such example is the super elongation complex (SEC), which activates polymerase II at bivalently methylated "poised" genes to rapidly turn on transcription. Mutations in the SEC have been connected to congenital malformations in tissues that undergo similar dynamic morphogenesis (spinal cord, eye cup, and heart tube) and aberrant expression of the SEC components can lead to cancer later in life. Therefore, the SEC offers an excellent example to begin to connect mechanisms that relate cellular intrinsic environments with complex extrinsic environments. 
+One way cells may interpret complex external environments is by maintaining an epigenetic state poised to respond to signals across cellular and tissue levels. Neural tube progenitors use bivalently marked genes to rapidly initiate transcription in response to signals and inform cell fate. But how does this occur? What epigenetic machinery needs to be in place? How many morphogenic signals can be interpreted at once?
 
 {% endcapture %}
 
@@ -54,7 +54,7 @@ A possible mechanism to enable interpretation of complex external environments i
 
 #### **Buffering against changing environments-**
 
-At the macro scale of signal reception is tissue architecture, which dictates signalling barriers (tight junctions, receptor location, diffusion distances) and cell neighbourhoods (cell shape, packing, mechanics) resulting in signal pathway regulation. The cells that generate the neural tube experience dynamic morphogenic changes as they differentiate, occurring in two spatially and temporally distinct phases. Primary neurulation begins at gastrulation where stem cells within a pseudo-stratified epithelium roll from a plate into a tube. Secondary neurulation begins from the 25th somite in chick (30th human) where progenitors condense into a medullary cord, epithelialize, and generate a lumen. Both cases result in the acquisition of neural fate and formation of a tube. Both cases rely on the SEC to define neural progenitor gene programs, suggesting that there are gene regulatory mechanisms coordinated with tissue architecture to enforce for lineage specification.
+The cells that generate the neural tube experience two routes of morphogenesis. Primary neurulation begins at gastrulation where stem cells within a pseudo-stratified epithelium roll from a plate into a tube. Secondary neurulation begins from the 25th somite in chick (30th human) where progenitors condense into a medullary cord, epithelialize, and generate a lumen. Both cases result in the acquisition of neural fate and formation of a tube. How do cells ensure the robust formation of a tube from different starting points? How are the same cell types made and organized properly?
 
 {% endcapture %}
 
