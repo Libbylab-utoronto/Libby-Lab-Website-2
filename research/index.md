@@ -32,11 +32,10 @@ Our lab addresses this by studying how stem cells maintain a permissive epigenet
 
 {% include section.html %}
 
-
-### **Connecting transcription to environment**
+## Ongoing projects
 
 {% capture text %}
-
+### **Connecting transcription to environment**
 One way cells interpret complex external environments is by maintaining an epigenetic state poised to respond to signals across cellular and tissue levels. Neural tube progenitors use bivalently marked genes to rapidly initiate transcription in response to signals and inform cell fate. But how does this occur? What epigenetic machinery needs to be in place? How many morphogenic signals can be interpreted at once?
 
 {% endcapture %}
@@ -47,12 +46,8 @@ One way cells interpret complex external environments is by maintaining an epige
   text=text
 %}
 
-
-
-### **Buffering against changing environments**
-
 {% capture text %}
-
+### **Buffering against changing environments**
 The neural tube forms through two morphogenetic processes depending on developmental timing: early primary neurulation and later secondary neurulation. In the former, stem cells roll from an epithelial plate into a tube; in the latter, they condense into a cord, epithelialize, and form a lumen. Both cases result in the acquisition of neural fate and formation of a tube. This raises key questions: How do cells ensure the robust formation of a tube from different starting points? How are the same cell types made and organized properly? Can we use this knowledge to build tissues in a dish?
 
 {% endcapture %}
