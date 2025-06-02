@@ -7,6 +7,7 @@ aliases:
   - A.R.G. Libby
 links:
   orcid: 0000-0002-8139-8844
+  google-scholar: fkzHPL8AAAAJ&hl
   bluesky: ashleylibby.bsky.social
 ---
 
