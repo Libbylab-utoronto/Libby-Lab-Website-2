@@ -5,4 +5,4 @@ role: phd
 links:
 ---
 
-This could be you!
+Thinking about a PhD? This could be you!
