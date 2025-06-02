@@ -15,22 +15,16 @@ footer-dark: true
 ## How do we make functional tissues?
 
 Tissues are made up of diverse, specialized cell types that work together to maintain homeostasis and function. To do this, cells must adapt to constant environmental changes—like nutrient levels, stress, and time. This challenge becomes even greater during embryonic development, when tissues are being generated. Here, populations of stem cells must interpret their signalling environment, adopt specific identities, and move into place to ensure the proper morphogenesis of functional tissues. Further, these physical changes in tissue structure occur alongside internal gene regulatory shifts that define cell fate, posing the question: **How does physical morphogenesis and gene regulation interact?**
-
-<div class="row">
-    <div class="col-sm-6">
-        {%
-          include figure.html
-          image="images/website_embryo-2.gif"
-          width= "100%"
-        %}
-    </div>
-    <div class="col-sm-6">
-        <p>Our lab studies the molecular mechanisms that control cell fate decisions during embryonic development. We use the early mouse embryo as a model system to understand how cells make decisions about their identity and how these decisions are coordinated across the embryo. We are particularly interested in how cells interpret and respond to signals from their environment, and how these signals are integrated with cell-intrinsic factors to control cell fate decisions.</p>
-    </div>
-</div>
-
+{% capture text %}
 Our lab addresses this by studying how stem cells maintain a permissive epigenetic state to precisely control gene expression and fate decisions amid changing signals and tissue shapes. Using the developing neural tube as a model—an organ that undergoes extensive morphogenesis and generates diverse nervous system cell types—we explore the feedback between intrinsic cell states and their environment.
 
+{% endcapture %}
+{%
+  include figure.html
+  image="images/website_embryo-2.gif"
+  width= "50%"
+%}
+ 
 
 {% include section.html %}
 
