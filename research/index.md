@@ -53,7 +53,7 @@ One way cells interpret complex external environments is by maintaining an epige
 
 {% capture text %}
 
-The neural tube is generated via two routes of morphogenesis depending on the window of developmental time: Primary neurulation (early) and secondary neurulation (late). Here, stem cells either roll from a pseudo-stratified epithelial plate into a tube or at later time points, stem cells condense into a medullary cord, epithelialize, and generate a lumen. Both cases result in the acquisition of neural fate and formation of a tube. We ask how do cells ensure the robust formation of a tube from different starting points? How are the same cell types made and organized properly? Can we use this knowledge to build tissues in a dish?
+The neural tube forms through two morphogenetic processes depending on developmental timing: early primary neurulation and later secondary neurulation. In the former, stem cells roll from an epithelial plate into a tube; in the latter, they condense into a cord, epithelialize, and form a lumen. Both cases result in the acquisition of neural fate and formation of a tube. This raises key questions: How do cells ensure the robust formation of a tube from different starting points? How are the same cell types made and organized properly? Can we use this knowledge to build tissues in a dish?
 
 {% endcapture %}
 
