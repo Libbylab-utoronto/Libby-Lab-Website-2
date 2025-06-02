@@ -33,7 +33,7 @@ h2 {
 }
 
 h3 {
-  font-size: var(--xl);
+  font-size: var(--large);
   font-weight: var(--regular);
   color: var(--tirtiary);
   padding-bottom: 1px;
