@@ -16,12 +16,7 @@ footer-dark: true
 Tissues are made up of diverse, specialized cell types that work together to maintain homeostasis and function. To do this, cells must adapt to constant environmental changes—like nutrient levels, stress, and time. This challenge becomes even greater during embryonic development, when tissues are being generated. Here, populations of stem cells must interpret their signalling environment, adopt specific identities, and move into place to ensure the proper morphogenesis of functional tissues. Further, these physical changes in tissue structure occur alongside internal gene regulatory shifts that define cell fate, posing the question: **How does physical morphogenesis and gene regulation interact?**
 
 {% capture text %}
-
 Our lab addresses this by studying how stem cells maintain a permissive epigenetic state to precisely control gene expression and fate decisions amid changing signals and tissue shapes. Using the developing neural tube as a model—an organ that undergoes extensive morphogenesis and generates diverse nervous system cell types—we explore the feedback between intrinsic cell states and their environment.
-
-By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell models, we investigate tissue formation across scales to reveal key developmental mechanisms and inform tissue engineering and regenerative medicine.
-
-
 {% endcapture %}
 
 {%
@@ -29,8 +24,10 @@ By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell 
   image="images/website_embryo-2.gif"
   style="bare"
   text=text
+  width="100%"
 %}
- 
+
+ By combining _in vivo_ studies in chick embryos with _in vitro_ human stem cell models, we investigate tissue formation across scales to reveal key developmental mechanisms and inform tissue engineering and regenerative medicine.
 
 {% include section.html %}
 
