@@ -1,6 +1,5 @@
 ---
 title: Research
-layout: page
 nav:
   order: 1
   tooltip: Ongoing Projects
