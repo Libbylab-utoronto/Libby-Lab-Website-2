@@ -9,7 +9,7 @@ h5,
 h6 {
   margin: 40px 0 20px 0;
   font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-weight: var(--bold);
   text-align: left;
   letter-spacing: 1px;
 }
@@ -27,7 +27,7 @@ h2 {
   font-size: var(--xl);
   padding-bottom: 1px;
   border-bottom: solid 1px var(--light-gray);
-  font-weight: var(--regular);
+  font-weight: var(--semi-bold);
   color: var(--secondary); /* Using theme secondary color */
 }
 
@@ -36,7 +36,8 @@ h2 {
 }
 
 h3 {
-  font-size: 2rem;
+  font-size:var(--large);
+  font-weight: var(--regular);
   color: var(--tirtiary);
 }
 
