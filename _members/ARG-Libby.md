@@ -15,15 +15,15 @@ Ashley earned her BA from Vanderbilt University and PhD in Developmental and Ste
 <div style="display: flex; justify-content: space-between; margin: 10px 0; gap: 10px;">
   <div style="flex: 1;">
     {%
-      include feature.html
-      image="images/website-logos-2-copy-2.png"
+      include figure.html
+      image="images/team/website-logos-2-copy-2.png"
       text=text
       caption = "hard working PhD student"
     %}
   </div>
   <div style="flex: 1;">
     {%
-      include feature.html
+      include figure.html
       image="images/team/website-logos-2-copy-2.png"
       text=text
       caption = "hard working postdoc"
@@ -40,7 +40,7 @@ Ashley continues this work in her own lab at the University of Toronto, examinin
 {% endcapture %}
 {%
   include feature.html
-  image="images/website-logos-2.png"
+  image="images/team/website-logos-2.png"
   text=text
 %}
 
