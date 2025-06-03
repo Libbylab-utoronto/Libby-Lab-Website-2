@@ -15,7 +15,7 @@
   ARG-Libby: true
   plugin: sources.py
   file: sources.yaml
-  image: images/Screen-website-paper.png
+  image: images/website-logos-Libby-paper_white.png
 - id: doi:10.1038/s41586-024-08332-w
   title: "Timely TGF\u03B2 signalling inhibition induces notochord"
   authors:
@@ -32,7 +32,7 @@
   ARG-Libby: true
   plugin: sources.py
   file: sources.yaml
-  image: images/website-tiago-paper.png
+  image: images/website-logos-tiago-white.png
 - id: doi:10.1101/2024.05.16.594506
   title: An in vivo CRISPR screen in chick embryos reveals a role for MLLT3 in specification
     of neural cells from the caudal epiblast
