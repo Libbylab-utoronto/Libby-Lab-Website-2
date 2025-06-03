@@ -9,6 +9,10 @@ a {
   color: var(--tirtiary);
 }
 
+[data-dark=true] .citation-title {
+  color: var(--secondary);
+}
+
 a:hover {
   color: var(--hover);
 }
