@@ -77,7 +77,7 @@ header a {
   margin: 0;
   color: var(--text);
   appearance: none;
-  transition: background var(--transition);
+  transition-property: background;
 }
 
 .nav-toggle:after {
