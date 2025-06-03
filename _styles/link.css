@@ -1,16 +1,8 @@
 /* Link styles */
 a {
-  color: var(--tirtiary);
-  transition: color var(--transition);
-  overflow-wrap: break-word;
-}
-
-[data-dark=true] a {
-  color: var(--tirtiary);
-}
-
-[data-dark=true] .citation-title {
   color: var(--secondary);
+  transition-property: color;
+  overflow-wrap: break-word;
 }
 
 a:hover {
