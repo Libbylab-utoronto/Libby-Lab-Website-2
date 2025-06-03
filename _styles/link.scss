@@ -8,6 +8,10 @@ a {
   overflow-wrap: break-word;
 }
 
+[data-dark="true"] a {
+  color: var(--tirtiary);
+}
+
 a:hover {
   color: var(--hover);
 }
