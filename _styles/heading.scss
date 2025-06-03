@@ -41,6 +41,9 @@ h3 {
   color: var(--tirtiary);
   padding-bottom: 1px;
 }
+[data-dark="true"] h3 {
+  color: var(--tirtiary); /* Using theme secondary color for dark mode too */
+}
 
 h4 {
   font-size: 1.75rem;
