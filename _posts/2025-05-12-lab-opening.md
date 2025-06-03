@@ -1,6 +1,6 @@
 ---
 title: Lab opening
-image: images/website_logos_white.png
+image: images/website-logos_white.png
 author: Ashley RG Libby
 tags:
   - celebrations
