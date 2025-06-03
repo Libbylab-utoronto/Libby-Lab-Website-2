@@ -1,6 +1,6 @@
 /* Link styles */
 a {
-  color: var(--secondary);
+  color: var(--tirtiary);
   transition-property: color;
   overflow-wrap: break-word;
 }
