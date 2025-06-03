@@ -16,8 +16,9 @@
   --button: #2cf680;      // New button color variable
 }
 [data-dark="true"] {
-  --primary: #23CE6B;     // GitHub dark mode green
-  --secondary: #2AF5FF;   // GitHub dark mode blue
+  --primary: #0bf56d;     // GitHub dark mode green
+  --secondary: #25d6e0;
+  --tirtiary: #14d7c1;    // GitHub dark mode blue
   --text: #e6edf3;        // GitHub dark mode text
   --background: #0d1117;  // GitHub dark mode background
   --background-alt: #161b22; // GitHub dark mode secondary background
@@ -25,7 +26,8 @@
   --gray: #8b949e;        // GitHub dark mode secondary text
   --dark-gray: #c9d1d9;   // GitHub dark mode text
   --overlay: #ffffff15;   // Transparent overlay
-  --hover: #2AF5FF;       // GitHub dark mode hover blue
+  --hover: #2AF5FF;
+  --button: #2cf680;        // GitHub dark mode hover blue
 }
 
 :root {
