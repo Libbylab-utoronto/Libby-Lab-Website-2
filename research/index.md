@@ -42,7 +42,7 @@ One way cells interpret complex external environments is by maintaining an epige
 
 {%
   include feature.html
-  image="images/PI_aims-16-1.png"
+  image="images/PI_aims_white-16.png"
   text=text
 %}
 
@@ -54,7 +54,7 @@ The neural tube forms through two morphogenetic processes depending on developme
 
 {%
   include feature.html
-  image="images/PI_aims-17-2.png"
+  image="images/PI_aims_white-17.png"
   flip=true
   text=text
 %}
