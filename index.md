@@ -53,7 +53,7 @@ Lab opening in January 2026! We are actively recruiting scientists at all levels
 
 {%
   include feature.html
-  image="images/libby-lab-eggs.png"
+  image="images/libby-lab-eggs2.jpeg"
   link="team"
   title="<span style='color: var(--secondary)'>Our Team</span>"
   flip=true
