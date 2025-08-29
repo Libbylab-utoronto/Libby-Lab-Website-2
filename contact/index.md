@@ -17,7 +17,7 @@ You can find us at the [Donnelly Center for Cellular + Biomolecular Research](ht
   include button.html
   type="email"
   text="email"
-  link="ashley.libby@crick.ac.uk"
+  link="ashley.libby@utoronto.ca"
 %}
 
 {%
