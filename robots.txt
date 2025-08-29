@@ -1,1 +1,1 @@
-Sitemap: https://libbya-crick.github.io/Libby-Lab-Website-2/sitemap.xml
+Sitemap: http://libbylab.org/sitemap.xml
