@@ -5,6 +5,6 @@
 
   # Libbya-crick's Website
 
-  Visit **[libbya-crick.github.io/Libby-Lab-Website-2](https://libbya-crick.github.io/Libby-Lab-Website-2)** 🚀
+  Visit **[libbylab.org](http://libbylab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
