@@ -1,6 +1,6 @@
 ---
 name: Ashley RG Libby
-image: images/team/Libby_headshot-wide-small.jpg
+image: images/team/Libby_headshot-wide-small2.jpg
 role: principal-investigator
 affiliation: University of Toronto
 aliases:
