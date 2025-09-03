@@ -29,7 +29,7 @@ To begin to answer these questions, we use the developing spinal cord as a model
 
 {%
   include feature.html
-  image="images/background.jpg"
+  image="images/chick_background_long-small.jpg"
   link="research"
   title="<span style='color: var(--secondary)'>Our Research</span>"
   text=text
