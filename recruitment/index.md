@@ -21,7 +21,7 @@ We are also happy to discuss the possibility of supporting postdoctoral candidat
 
 ## PhD Students:
 
-For informal equiries, please [email Ashley]({{ '/contact' | relative_url }}) with your CV, explaining your academic background and research interests.
+For informal enquiries, please [email Ashley]({{ '/contact' | relative_url }}) with your CV, explaining your academic background and research interests.
 
 The University of Toronto hosts PhD students from a range of programs: [Study at the U of T](https://www.sgs.utoronto.ca/programs/)
 
