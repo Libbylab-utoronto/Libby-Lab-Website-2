@@ -30,9 +30,9 @@ Our lab is recruiting through:
 - [Developmenal Biology Collaborative Specialization](https://sgs.calendar.utoronto.ca/collaborative/Developmental-Biology)
 - [Genome Biology and Bioinformatics Collaborative Specialization](https://sgs.calendar.utoronto.ca/collaborative/Genome-Biology-and-Bioinformatics)
 
-## Research Assistants:
+## Research Associates:
 
-Please [email Ashley]({{ '/contact' | relative_url }}) with your interests and CV. 
+We are looking for individuals passionate about developmental biology and tissue morphogenesis. Preferably with a background in pluripotent stem cell culture or embryology. If interested please [email Ashley]({{ '/contact' | relative_url }}) with your interests and CV. 
 
 {% capture content %}
 
