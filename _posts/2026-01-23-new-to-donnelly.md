@@ -1,3 +1,4 @@
+---
 title: New to the Donnelly Centre
 image: images/Donnelly-center-cropped.jpg
 author: Ashley RG Libby
