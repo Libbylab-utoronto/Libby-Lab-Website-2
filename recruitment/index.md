@@ -17,7 +17,7 @@ Our team is still growing.
 
 If you are interested in joining our lab as a Postdoctoral Fellow, please [email Ashley]({{ '/contact' | relative_url }}) with your research interests and your CV.
 
-We are also happy to discuss the possibility of supporting postdoctoral candidates in applying for fellowships.
+We are also happy to discuss the possibility of supporting postdoctoral candidates in applying for fellowships. We are funded by the NSERC and can support International IMPACT+ postdoc applications! (June 2026 deadline)
 
 ## PhD Students:
 
