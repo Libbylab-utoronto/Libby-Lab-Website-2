@@ -1,6 +1,6 @@
 ---
 name: Emily Pan
-image: images/team/emily-headshot.png
+image: images/team/EmilyPan_Picture.JPG
 role: undergrad
 affiliation: University of Toronto
 ---
