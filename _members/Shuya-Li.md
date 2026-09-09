@@ -1,7 +1,7 @@
 ---
 name: Shuya Li
 image: images/team/shuya-headshot.jpeg
-role: graduate student
+role: msc
 affiliation: University of Toronto
 ---
 
