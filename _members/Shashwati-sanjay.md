@@ -1,6 +1,6 @@
 ---
 name: Shashwati Sanjay
-image: images/team/shashwati-head-shot.jpg
+image: images/team/shashwati-head-shot.jpg.jpeg
 role: msc
 affiliation: University of Toronto
 ---
