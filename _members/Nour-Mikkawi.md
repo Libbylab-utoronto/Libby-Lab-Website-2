@@ -1,6 +1,6 @@
 ---
 name: Nour Mikkawi
-image: images/team/nour-head-shot.png
+image: images/team/nour-head-shot.jpeg
 role: undergrad
 affiliation: University of Toronto
 ---
