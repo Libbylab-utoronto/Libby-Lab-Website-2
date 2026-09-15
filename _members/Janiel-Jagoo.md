@@ -1,6 +1,6 @@
 ---
 name: Janiel Jagoo
-image: images/team/janiel-headshot.jpeg
+image: images/team/Janiel-headshot.jpg
 role: undergrad
 affiliation: University of Toronto
 ---
