@@ -5,9 +5,8 @@ role: principal-investigator
 affiliation: University of Toronto
 aliases:
   - A.R.G. Libby
-  - AshleyR.G.Libby
+  - Ashley R. G Libby
   - Ashley R.G. Libby
-  - Ashley R.G Libby
   - Ashley Libby
   - Ashley RG Libby
   - Ashley R. G. Libby
