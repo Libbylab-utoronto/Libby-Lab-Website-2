@@ -10,6 +10,7 @@ aliases:
   - Ashley R.G Libby
   - Ashley Libby
   - Ashley RG Libby
+  - Ashley R. G. Libby
 links:
   orcid: 0000-0002-8139-8844
   google-scholar: fkzHPL8AAAAJ&hl
