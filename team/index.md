@@ -26,6 +26,8 @@ Meet our growing team:
 ## Past Members
 
 - **Russell Beltran** - University of Toronto, Molecular Genetics Graduate Program
+- **Shashwati Sanjay** - University of Toronto, Molecular Genetics Graduate Program - rotation student
+- **Shuya Li** - University of Toronto, Molecular Genetics Graduate Program - rotation student
 
 {% include section.html %}
 
