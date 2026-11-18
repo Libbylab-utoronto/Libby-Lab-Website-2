@@ -1,3 +1,4 @@
+/* Button styles - updated with green background and black text */
 button {
   cursor: pointer;
 }
@@ -16,8 +17,8 @@ button {
   padding: 8px 15px;
   border: none;
   border-radius: var(--rounded);
-  background: var(--primary);
-  color: var(--background);
+  background: #2cf680;
+  color: #000000;
   text-align: center;
   font: inherit;
   font-family: var(--heading);
@@ -29,7 +30,7 @@ button {
 }
 
 .button:hover {
-  background: var(--text);
+  background: var(--hover);
   color: var(--background);
 }
 
@@ -39,7 +40,7 @@ button {
   color: var(--primary);
 }
 .button[data-style=bare]:hover {
-  color: var(--text);
+  color: var(--hover);
 }
 
 .button[data-flip] {
