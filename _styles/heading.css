@@ -6,53 +6,40 @@ h5,
 h6 {
   margin: 40px 0 20px 0;
   font-family: var(--heading);
-  font-weight: var(--bold);
+  font-weight: var(--semi-bold);
   text-align: left;
   letter-spacing: 1px;
 }
 
 h1 {
   margin: 40px 0;
-  font-size: var(--xxl);
-  font-weight: var(--bold);
-  color: var(--primary);
+  font-size: 1.6rem;
+  font-weight: var(--regular);
   text-transform: uppercase;
-  text-align: left;
+  text-align: center;
 }
 
 h2 {
-  font-size: var(--xl);
-  padding-bottom: 1px;
+  font-size: 1.6rem;
+  padding-bottom: 5px;
   border-bottom: solid 1px var(--light-gray);
-  font-weight: var(--semi-bold);
-  color: var(--primary); /* Using theme secondary color */
-}
-
-[data-dark=true] h2 {
-  color: var(--secondary); /* Using theme secondary color for dark mode too */
+  font-weight: var(--regular);
 }
 
 h3 {
-  font-size: var(--large);
-  font-weight: var(--regular);
-  color: var(--tirtiary);
-  padding-bottom: 1px;
-}
-
-[data-dark=true] h3 {
-  color: var(--tirtiary); /* Using theme secondary color for dark mode too */
-}
-
-h4 {
-  font-size: 1.75rem;
-}
-
-h5 {
   font-size: 1.5rem;
 }
 
+h4 {
+  font-size: 1.3rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
 h6 {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 :where(h1, h2, h3, h4, h5, h6) > .icon {

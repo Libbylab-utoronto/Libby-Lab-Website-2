@@ -1,11 +1,10 @@
-/* Header styles with updated parameters - reduced padding */
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 10px;
+  padding: 20px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -49,7 +48,6 @@ header a {
 
 .title {
   font-size: var(--large);
-  color: var(--primary);
 }
 
 .subtitle {
@@ -65,7 +63,7 @@ header a {
   margin: 0;
   color: var(--text);
   appearance: none;
-  transition-property: background;
+  transition: background var(--transition);
 }
 
 .nav-toggle:after {
@@ -96,11 +94,10 @@ nav {
 
 nav > a {
   padding: 5px;
-  color: var(--text);
 }
 
 nav > a:hover {
-  color: var(--hover);
+  color: var(--primary);
 }
 
 @media (max-width: 700px) {
@@ -124,7 +121,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 25px 20px;
+  padding: 100px 20px;
   top: unset;
 }
 header[data-big] .home {
@@ -132,7 +129,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 200px;
+  height: 80px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
@@ -141,18 +138,10 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: calc(var(--xxl) * 1.25);
-  color: var(--primary);
-  font-weight: var(--bold);
+  font-size: var(--xxl);
 }
 header[data-big] .subtitle {
-  font-size: calc(var(--large) + 5px);
-}
-header[data-big] nav {
-  font-size: calc(1rem + 5px);
-}
-header[data-big] .nav-toggle:after {
-  font-size: 20px;
+  font-size: var(--large);
 }
 
 /*# sourceMappingURL=header.css.map */

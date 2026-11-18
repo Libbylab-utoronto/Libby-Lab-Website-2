@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-dark="true">
+<html lang="en" data-dark="false">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!--
@@ -43,22 +43,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Lab opening | Libby Lab</title>
+<title>Lab opening | Lab Website Template</title>
 
 <link rel="icon" href="/images/icon.png">
 
 <meta name="title" content="Lab opening">
-<meta name="description" content="University of Toronto. connecting molecular environments to morphogenic control of development">
+<meta name="description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 
 <meta property="og:title" content="Lab opening">
-<meta property="og:site_title" content="Libby Lab">
-<meta property="og:description" content="University of Toronto. connecting molecular environments to morphogenic control of development">
+<meta property="og:site_title" content="Lab Website Template">
+<meta property="og:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="og:url" content="http://libbylab.org">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Lab opening">
-<meta property="twitter:description" content="University of Toronto. connecting molecular environments to morphogenic control of development">
+<meta property="twitter:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="twitter:url" content="http://libbylab.org">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
@@ -66,10 +66,10 @@
 
   <meta name="author" content="Ashley RG Libby">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2026-10-09T16:38:33+00:00">
+  <meta property="og:updated_time" content="2026-11-18T13:03:58+00:00">
   <meta property="article:published_time" content="2025-05-12T00:00:00+00:00">
-  <meta property="article:modified_time" content="2026-10-09T16:38:33+00:00">
-  <meta name="revised" content="2026-10-09T16:38:33+00:00">
+  <meta property="article:modified_time" content="2026-11-18T13:03:58+00:00">
+  <meta name="revised" content="2026-11-18T13:03:58+00:00">
 
 
 <script type="application/ld+json">
@@ -79,10 +79,10 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Lab opening" },
       "datePublished": "2025-05-12T00:00:00+00:00",
-      "dateModified": "2026-10-09T16:38:33+00:00",
+      "dateModified": "2026-11-18T13:03:58+00:00",
     
     "name": "Lab opening",
-    "description": "University of Toronto. connecting molecular environments to morphogenic control of development",
+    "description": "by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.",
     "headline": "Lab opening",
     "publisher": {
       "@type": "Organization",
@@ -98,7 +98,7 @@
 <!-- automatically get url from fonts used in theme file -->
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?display=swap&&family=Outfit:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;family=Roboto+Mono:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
@@ -333,22 +333,79 @@
 
 
 
-<header class="background" style="--image: url('/images/banners-02.png')" data-dark="true">
+<header class="background" style="--image: url('/images/background.jpg')" data-dark="true">
   <a href="/" class="home">
     
       <span class="logo">
         
-          <img src="/images/logo.png" alt="logo">
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="-40 -60 80 100">
+  <style>
+    .bubble {
+      animation: float 2s ease-out both infinite var(--delay);
+    }
+    @keyframes float {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+      75% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-40px);
+      }
+    }
+  </style>
+  <g fill="currentColor" opacity="0.5">
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s"></circle>
+  </g>
+  <path fill="#38bdf8" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L -19.5 11.25
+      L 0 22.5
+      L 19.5 11.25
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="#bae6fd" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L 0 0
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="none" stroke="currentColor" stroke-width="5" d="
+      M -18 -53
+      L -10 -53
+      L -10 -29.2
+      L -30.3 -17.5
+      L -30.3 17.5
+      L 0 35
+      L 30.3 17.5
+      L 30.3 -17.5
+      L 10 -29.2
+      L 10 -53
+      L 18 -53
+    "></path>
+</svg>
+
         
       </span>
     
     
       <span class="title-text" data-tooltip="Home">
         
-          <span class="title">Libby Lab</span>
+          <span class="title">Lab Website Template</span>
         
         
-          <span class="subtitle">University of Toronto</span>
+          <span class="subtitle">by the Greene Lab</span>
         
       </span>
     
@@ -360,7 +417,7 @@
     
     
       
-        <a href="/research/" data-tooltip="Ongoing Projects">
+        <a href="/research/" data-tooltip="Published works">
           Research
         </a>
       
@@ -372,14 +429,32 @@
       
     
       
+        <a href="/projects/" data-tooltip="Software, datasets, and more">
+          Projects
+        </a>
+      
+    
+      
         <a href="/team/" data-tooltip="About our team">
           Team
         </a>
       
     
       
+        <a href="/blog/" data-tooltip="Musings and miscellany">
+          Blog
+        </a>
+      
+    
+      
         <a href="/EDI/" data-tooltip="Equity, Diversity, &amp; Inclusion">
           EDI
+        </a>
+      
+    
+      
+        <a href="/contact/" data-tooltip="Email, address, and location">
+          Contact
         </a>
       
     
@@ -398,12 +473,6 @@
       
         <a href="/News/" data-tooltip="Latest from the lab">
           News
-        </a>
-      
-    
-      
-        <a href="/contact/" data-tooltip="Email, address, and location">
-          Contact
         </a>
       
     
@@ -464,7 +533,7 @@
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>October 09, 2026</span>
+      <span>November 18, 2026</span>
     </span>
   
 </div>
@@ -473,9 +542,9 @@
   
 
 
-  <div class="tags" data-link="/blog">
+  <div class="tags">
     
-      <a href="blog?search=%22tag:%20celebrations%22" class="tag" data-tooltip='Show items with the tag "celebrations"'>
+      <a href='/blog?search="tag:%20celebrations"' class="tag" data-tooltip='Show items with the tag "celebrations"'>
         celebrations
       </a>
     
@@ -512,6 +581,11 @@
 <div class="post-nav">
   <span>
     
+      <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
+      <a href="/2023/02/23/example-post-3.html">
+        Example post 3
+      </a>
+    
   </span>
   <span>
     
@@ -529,7 +603,7 @@
     
 
 
-<footer class="background" style="--image: url('/images/banners-02.png')" data-dark="true" data-size="wide">
+<footer class="background" style="--image: url('/images/background.jpg')" data-dark="true" data-size="wide">
   <!--
     <div>
       Extra details like contact info or address
@@ -545,7 +619,22 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://orcid.org/0000-0002-8139-8844" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+    <a class="button" href="mailto:contact@your-lab.com" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://orcid.org/0000-0001-8713-9213" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
       <i class="icon fa-brands fa-orcid"></i>
       
     </a>
@@ -560,7 +649,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://scholar.google.com/citations?user=fkzHPL8AAAAJ&hl" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+    <a class="button" href="https://scholar.google.com/citations?user=ETJoidYAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
       <i class="icon fa-brands fa-google"></i>
       
     </a>
@@ -575,7 +664,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://github.com/Libbylab-utoronto" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+    <a class="button" href="https://github.com/your-lab" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
       <i class="icon fa-brands fa-github"></i>
       
     </a>
@@ -590,8 +679,23 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://bsky.app/profile/ashleylibby.bsky.social" data-tooltip="Bluesky" data-style="bare" aria-label="Bluesky">
-      <i class="icon fa-brands fa-bluesky"></i>
+    <a class="button" href="https://twitter.com/YourLabHandle" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
+      <i class="icon fa-brands fa-twitter"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://youtube.com/YourLabChannel" data-tooltip="YouTube" data-style="bare" aria-label="YouTube">
+      <i class="icon fa-brands fa-youtube"></i>
       
     </a>
   </div>
@@ -602,7 +706,7 @@
 
   <div>
     © 2026
-    Libby Lab
+    Lab Website Template
       |   Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
