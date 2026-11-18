@@ -1,21 +1,21 @@
 # site properties and page defaults
-title: Libby Lab
-subtitle: University of Toronto
-description: connecting molecular environments to morphogenic control of development
-header: images/banners-02.png
-footer: images/banners-02.png
+title: Lab Website Template
+subtitle: by the Greene Lab
+description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+header: images/background.jpg
+footer: images/background.jpg
+proofer: false
 
 # site social media and other links
 links:
-  orcid: 0000-0002-8139-8844
-  google-scholar: fkzHPL8AAAAJ&hl
-  github: Libbylab-utoronto
-  bluesky: ashleylibby.bsky.social
+  email: contact@your-lab.com
+  orcid: 0000-0001-8713-9213
+  google-scholar: ETJoidYAAAAJ
+  github: your-lab
+  twitter: YourLabHandle
+  youtube: YourLabChannel
 
 ### jekyll settings
-
-# show future-dated posts
-future: true
 
 # front matter defaults
 defaults:
@@ -71,3 +71,9 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+# configure jekyll spaceship
+jekyll-spaceship:
+  mathjax-processor:
+    src:
+      - https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js

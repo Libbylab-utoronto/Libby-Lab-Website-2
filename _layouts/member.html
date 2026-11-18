@@ -1,9 +1,5 @@
 ---
 layout: default
-header: images/banners.png
-footer: images/banners-02.png
-header-dark: true
-footer-dark: true
 ---
 
 {% capture floatcontent %}
@@ -33,12 +29,12 @@ footer-dark: true
 %}
 
 {% capture search -%}
-  papers/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
 <p class="center">
   <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the PAPERS page
+    Search for {{ page.name | default: page.title }}'s papers on the Research page
   </a>
 </p>
 

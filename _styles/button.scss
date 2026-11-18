@@ -1,7 +1,6 @@
 ---
 ---
 
-/* Button styles - updated with green background and black text */
 button {
   cursor: pointer;
 }
@@ -20,8 +19,8 @@ button {
   padding: 8px 15px;
   border: none;
   border-radius: var(--rounded);
-  background: #2cf680;
-  color: #000000;
+  background: var(--primary);
+  color: var(--background);
   text-align: center;
   font: inherit;
   font-family: var(--heading);
@@ -33,7 +32,7 @@ button {
 }
 
 .button:hover {
-  background: var(--hover);
+  background: var(--text);
   color: var(--background);
 }
 
@@ -43,7 +42,7 @@ button {
   color: var(--primary);
 
   &:hover {
-    color: var(--hover);
+    color: var(--text);
   }
 }
 

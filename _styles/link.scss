@@ -1,16 +1,14 @@
 ---
 ---
 
-/* Link styles */
 a {
-  color: var(--tirtiary);
-  transition-property: color;
+  color: var(--primary);
+  transition: color var(--transition);
   overflow-wrap: break-word;
 }
 
-
 a:hover {
-  color: var(--hover);
+  color: var(--text);
 }
 
 a:not([href]) {
