@@ -1,6 +1,6 @@
 ---
 name: Shreyas Sridhar
 image: 
-role: Postdoctoral Researcher
+role: posttdoc
 affiliation: University of Toronto
 ---
