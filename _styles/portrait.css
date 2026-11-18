@@ -9,13 +9,13 @@
   align-items: center;
   flex-direction: column;
   margin: 20px;
-  width: 175px;
+  width: 250px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
 
 .portrait[data-style=small] {
-  width: 100px;
+  width: 150px;
 }
 
 .portrait[data-style=tiny] {
@@ -56,6 +56,11 @@
   border-radius: 999px;
   object-fit: cover;
   box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+}
+
+.portrait-image:hover {
+  transform: scale(1.05);
 }
 
 .portrait[data-style=tiny] .portrait-image {

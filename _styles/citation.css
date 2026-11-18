@@ -48,6 +48,12 @@
 
 .citation-title {
   font-weight: var(--semi-bold);
+  color: var(--secondary);
+}
+
+[data-dark=true] .citation-title {
+  font-weight: var(--semi-bold);
+  color: var(--secondary);
 }
 
 .citation-text > .icon {

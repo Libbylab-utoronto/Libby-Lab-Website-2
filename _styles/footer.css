@@ -14,7 +14,7 @@ footer a {
 }
 
 footer a:hover {
-  color: var(--primary) !important;
+  color: var(--hover) !important;
 }
 
 footer .icon {
