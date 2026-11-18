@@ -1,9 +1,10 @@
 ---
 ---
 
-$logo-big: 80px;
+/* Header styles with updated parameters - reduced padding */
+$logo-big: 200px;
 $logo: 40px;
-$big-padding: 100px;
+$big-padding: 25px;
 $collapse: 700px;
 $sticky: true;
 
@@ -13,7 +14,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
+  padding: 10px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -60,6 +61,7 @@ header a {
 
 .title {
   font-size: var(--large);
+  color: var(--primary);
 }
 
 .subtitle {
@@ -75,7 +77,7 @@ header a {
   margin: 0;
   color: var(--text);
   appearance: none;
-  transition: background var(--transition);
+  transition-property: background;
 }
 
 .nav-toggle:after {
@@ -106,10 +108,11 @@ nav {
 
 nav > a {
   padding: 5px;
+  color: var(--text);
 }
 
 nav > a:hover {
-  color: var(--primary);
+  color: var(--hover);
 }
 
 header:not([data-big]) {
@@ -159,10 +162,20 @@ header[data-big] {
   }
 
   .title {
-    font-size: var(--xxl);
+    font-size: calc(var(--xxl) * 1.25);
+    color: var(--primary);
+    font-weight: var(--bold);
   }
 
   .subtitle {
-    font-size: var(--large);
+    font-size: calc(var(--large) + 5px);
+  }
+  
+  nav {
+    font-size: calc(1rem + 5px);
+  }
+  
+  .nav-toggle:after {
+    font-size: calc(15px + 5px);
   }
 }

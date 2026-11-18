@@ -2,6 +2,22 @@
 ---
 
 mark {
-  background: #fef08a;
-  color: #000000;
+  background: var(--secondary);
+  color: var(--text);
+  padding: 0.1em 0.2em;
+  border-radius: 3px;
+}
+
+.highlight {
+  background: var(--secondary);
+  color: var(--text);
+  padding: 0.1em 0.2em;
+  border-radius: 3px;
+}
+
+.feature-title {
+  font-size: var(--large);
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  line-height: var(--spacing);
 }
