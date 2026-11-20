@@ -1,6 +1,6 @@
 ---
 name: Shreyas Sridhar
-image: mages/team/Shreyas-headshot.jpeg
+image: mages/team/Shreyas-portrait.jpeg
 role: postdoc
 affiliation: University of Toronto
 ---
